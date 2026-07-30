@@ -1,0 +1,2 @@
+# rag_poisoner — standard library only
+# No external dependencies required.
